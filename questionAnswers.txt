@@ -1,0 +1,12 @@
+Question	AnsFriendly	AnsCaring	AnsEnthausiastic	AnsProfessional	AnsWitty
+Is this Saturday working day?	Yes
+Where is Proffesor Manikandan's cabin?	AB1 503
+From which date FAT exam starts?	May 1
+Is there a holiday for Eid?	Yes
+Is there a holiday for Good Friday?	Yes
+What are the courses taken by Professor Usha in Winter Semester 2022?	1 - Data Structures and Algorithms, 2 - Machine Learning, 3 - Data Science
+Faculty list for Data Structures and Algorithms	1 - Manikandan, 2 - Jayaram, 3 - Sudha, 4 - Jayalakshmi, 5 - Usha
+What are the courses taken by Professor Usha in Winter Semester 2022?	1 - Data Structures and Algorithms, 2 - Machine Learning, 3 - Data Science
+What are the courses in Winter Semester 2022?	1 - Data Structures and Algorithms, 2 - Artificial Intelligence, 3 - Discrete Mathematics, 4 - Essentials of Data Analytics, 5 - IOT, 6 - Information Security, 7 - TARP, 8 - STS
+Details about course - Data Structure and Algorithms 	In this course, You will Master Algorithmic Programming Techniques and Data Structures. You can advance your career by Learning Algorithms through Programming and Puzzle Solving. This course will help you ace coding interviews by implementing each algorithmic challenge. You will need to do a project to solve a real-life problem applying the newly-learned algorithmic techniques.
+from which date fat starts?	May 1
